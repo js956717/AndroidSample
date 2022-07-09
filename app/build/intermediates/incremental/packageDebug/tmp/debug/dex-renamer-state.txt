@@ -1,0 +1,13 @@
+#Mon Jun 20 17:19:51 PDT 2022
+path.3=classes2.dex
+path.2=12/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.3=C\:\\Users\\sjian\\Desktop\\2021SST1\\Research Term 1\\azure-iot-samples-java-master\\iot-hub\\Samples\\device\\AndroidSample\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+base.2=C\:\\Users\\sjian\\Desktop\\2021SST1\\Research Term 1\\azure-iot-samples-java-master\\iot-hub\\Samples\\device\\AndroidSample\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
+base.1=C\:\\Users\\sjian\\Desktop\\2021SST1\\Research Term 1\\azure-iot-samples-java-master\\iot-hub\\Samples\\device\\AndroidSample\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=C\:\\Users\\sjian\\Desktop\\2021SST1\\Research Term 1\\azure-iot-samples-java-master\\iot-hub\\Samples\\device\\AndroidSample\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.microsoft.azure.iot.sdk.samples.androidsample.app-mergeDebugResources-26:/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sjian\\Desktop\\2021SST1\\Research Term 1\\azure-iot-samples-java-master\\iot-hub\\Samples\\device\\AndroidSample\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "291",
+                        "endColumns": "57",
+                        "endOffsets": "344"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}
